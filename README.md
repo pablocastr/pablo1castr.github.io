@@ -1,7 +1,7 @@
 # yo
 weed
 
-### platzi :fa-superscript:
+### platzi 
 
 
 ------------
